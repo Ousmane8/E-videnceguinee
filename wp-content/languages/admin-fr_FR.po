@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-09 16:57:57+0000\n"
+"PO-Revision-Date: 2021-02-10 16:31:10+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5847,7 +5847,7 @@ msgstr "<strong>Publier</strong> - Vous pouvez définir la manière dont votre p
 #. translators: %s: New email.
 #: wp-admin/user-edit.php:525
 msgid "There is a pending change of your email to %s."
-msgstr "Il y a une modification en cours de votre adresse de messagerie, en faveur de %s."
+msgstr "Il y a une modification de votre adresse e-mail en attente, en faveur de %s."
 
 #: wp-admin/user-edit.php:212
 msgid "Error while saving the new email address. Please try again."
@@ -10028,7 +10028,7 @@ msgstr "<strong>Modifier</strong> vous envoie sur l’écran de modification de 
 
 #: wp-admin/user-new.php:259
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
-msgstr "Parce qu’il s’agit d’une installation multisite, vous pouvez ajouter des comptes qui existent déjà sur le Réseau, en indiquant un identifiant ou une adresse de messagerie, et en assignant un rôle. Pour avoir plus d’options, telle que le choix du mot de passe, vous devez être Administrateur ou administratrice du Réseau, et utiliser les liens qui apparaissent au survol sous le nom de l’utilisateur ou de l’utilisatrice pour modifier son compte, depuis l’écran « Tous les comptes »."
+msgstr "Parce qu’il s’agit d’une installation multisite, vous pouvez ajouter des comptes qui existent déjà sur le Réseau, en indiquant un identifiant ou une adresse e-mail, et en assignant un rôle. Pour avoir plus d’options, telle que le choix du mot de passe, vous devez être Administrateur ou administratrice du Réseau, et utiliser les liens qui apparaissent au survol sous le nom de l’utilisateur ou de l’utilisatrice pour modifier son compte, depuis l’écran « Tous les comptes »."
 
 #. translators: %s: The current WordPress version number.
 #: wp-admin/about.php:58
@@ -10735,7 +10735,7 @@ msgstr "Vous n’avez qu’un thème activé sur ce site actuellement. Veuillez 
 
 #: wp-admin/user-edit.php:442
 msgid "Super admin privileges cannot be removed because this user has the network admin email."
-msgstr "Les privilèges de super-admin ne peuvent pas être retirés, car ce compte est celui avec l’adresse de messagerie administrative du réseau."
+msgstr "Les privilèges de super-admin ne peuvent pas être retirés, car ce compte est celui avec l’adresse e-mail administrative du réseau."
 
 #. translators: %s: URL to Add Themes screen.
 #: wp-admin/includes/class-wp-themes-list-table.php:122
@@ -11685,7 +11685,7 @@ msgstr "Le compte a été ajouté à votre site."
 
 #: wp-admin/user-new.php:332
 msgid "Invitation email sent to user. A confirmation link must be clicked for them to be added to your site."
-msgstr "L’invitation a été envoyée à l’adresse de messagerie liée au compte. La personne concernée devra cliquer sur un lien de confirmation pour être ajoutée à votre site."
+msgstr "L’invitation a été envoyée à l’adresse e-mail liée au compte. La personne concernée devra cliquer sur un lien de confirmation pour être ajoutée à votre site."
 
 #: wp-admin/update-core.php:445
 msgid "The following plugins have new versions available. Check the ones you want to update and then click &#8220;Update Plugins&#8221;."
@@ -12852,7 +12852,7 @@ msgstr "Un compte doit être inscrit et connecté pour publier des commentaires"
 
 #: wp-admin/options-discussion.php:66
 msgid "Comment author must fill out name and email"
-msgstr "L’auteur ou l’autrice d’un commentaire doit renseigner son nom et son adresse de messagerie"
+msgstr "L’auteur ou l’autrice d’un commentaire doit renseigner son nom et son adresse e-mail"
 
 #: wp-admin/options-discussion.php:64 wp-admin/options-discussion.php:65
 msgid "Other comment settings"

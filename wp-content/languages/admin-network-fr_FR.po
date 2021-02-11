@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-10 10:44:59+0000\n"
+"PO-Revision-Date: 2021-02-10 16:31:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -755,7 +755,7 @@ msgstr "Les super-admins ne peuvent plus être ajoutés via l’écran des optio
 
 #: wp-admin/network/site-users.php:269
 msgid "Enter the username and email."
-msgstr "Saisir l’identifiant et l’adresse de messagerie."
+msgstr "Saisissez l’identifiant et l’adresse e-mail."
 
 #: wp-admin/network/site-users.php:266
 msgid "User created."
@@ -1089,7 +1089,7 @@ msgstr "Survoler chaque site avec la souris révèle sept options (trois pour le
 
 #: wp-admin/network/settings.php:51
 msgid "Operational settings has fields for the network&#8217;s name and admin email."
-msgstr "Les réglages de fonctionnement permettent de modifier le nom du réseau, et l’adresse de messagerie de l’administrateur ou de l’administratrice."
+msgstr "Les réglages de fonctionnement permettent de modifier le nom du réseau, et l’adresse e-mail de l’administrateur ou de l’administratrice."
 
 #: wp-admin/network/users.php:223
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
@@ -1170,11 +1170,11 @@ msgstr "Si votre navigateur ne lance pas automatiquement la page suivante, cliqu
 
 #: wp-admin/network/settings.php:284
 msgid "If you want to ban domains from site registrations. One domain per line."
-msgstr "Si vous souhaitez interdire la création de sites aux personnes dont l’adresse de messagerie est liée à certains noms de domaines. Un domaine par ligne."
+msgstr "Si vous souhaitez interdire la création de site aux personnes dont l’adresse e-mail est liée à certains noms de domaines. Un domaine par ligne."
 
 #: wp-admin/network/settings.php:266
 msgid "If you want to limit site registrations to certain domains. One domain per line."
-msgstr "Si vous souhaitez que les seules personnes habilitées à créer un site soient celles disposant d’une adresse de messagerie liée à certains noms de domaines. Un domaine par ligne."
+msgstr "Si vous souhaitez que les seules personnes habilitées à créer un site soient celles disposant d’une adresse e-mail liée à certains noms de domaines. Un domaine par ligne."
 
 #: wp-admin/network/site-new.php:40
 msgid "Can&#8217;t create an empty site."

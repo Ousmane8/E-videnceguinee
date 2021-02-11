@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-09 20:00:37+0000\n"
+"PO-Revision-Date: 2021-02-10 16:29:23+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5866,7 +5866,7 @@ msgstr "Date d’inscription du compte."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1363
 msgid "The email address for the user."
-msgstr "L’adresse de messagerie du compte."
+msgstr "L’adresse e-mail du compte."
 
 #. translators: %s: Role key.
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1190
@@ -6321,7 +6321,7 @@ msgstr "Limiter la réponse aux publications mises en ligne avant une date défi
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1569
 msgid "Limit result set to that from a specific author email. Requires authorization."
-msgstr "Limiter le jeu de résultats à une adresse de messagerie d’auteur ou d’autrice spécifique. Nécessite les droits correspondants."
+msgstr "Limiter le jeu de résultats à une adresse e-mail d’auteur ou d’autrice spécifique. Nécessite les droits correspondants."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1560
 msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
@@ -7416,7 +7416,7 @@ msgstr "<strong>Erreur</strong> : votre URL est trop longue."
 
 #: wp-includes/comment.php:1298
 msgid "<strong>Error</strong>: Your email address is too long."
-msgstr "<strong>Erreur</strong> : votre adresse de messagerie est trop longue."
+msgstr "<strong>Erreur</strong> : votre adresse e-mail est trop longue."
 
 #: wp-includes/comment.php:1294
 msgid "<strong>Error</strong>: Your name is too long."
@@ -10626,7 +10626,7 @@ msgstr "Le site que vous cherchez %s n’existe pas, mais vous pouvez le créer 
 #. translators: %s: Email address.
 #: wp-signup.php:847
 msgid "Have you entered your email correctly? You have entered %s, if it&#8217;s incorrect, you will not receive your email."
-msgstr "Avez-vous correctement saisi votre adresse de messagerie ? Vous aviez saisi %s, mais si ce n’est pas correct, vous ne recevrez pas de message."
+msgstr "Avez-vous correctement saisi votre adresse e-mail ? Vous aviez saisi %s, mais si ce n’est pas correct, vous ne recevrez pas de message."
 
 #: wp-includes/functions.php:6642
 msgid "The login page will open in a new tab. After logging in you can close it and return to this page."
@@ -12792,7 +12792,7 @@ msgstr "Une adresse e-mail valide est nécessaire."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3928
 msgid "Comment author name and email are required."
-msgstr "L’auteur ou l’autrice d’un commentaire doit renseigner son nom et son adresse de messagerie."
+msgstr "Les nom et e-mail de l’auteur ou l’autrice d’un commentaire sont obligatoires."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1400
 #: wp-includes/class-wp-xmlrpc-server.php:1695
@@ -14742,7 +14742,7 @@ msgstr "Il n’y a pas d’options pour ce widget."
 
 #: wp-includes/user.php:2736 wp-admin/includes/user.php:207
 msgid "<strong>Error</strong>: This email is already registered. Please choose another one."
-msgstr "<strong>Erreur</strong> : cette adresse de messagerie est déjà utilisée. Veuillez en choisir une autre."
+msgstr "<strong>Erreur</strong> : cette adresse e-mail est déjà utilisée. Veuillez en choisir une autre."
 
 #: wp-includes/user.php:2714 wp-admin/includes/user.php:146
 msgid "<strong>Error</strong>: Please enter a username."
